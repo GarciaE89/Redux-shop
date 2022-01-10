@@ -16,6 +16,7 @@ Clone repo to local machine, run `npm i` and start application with `npm start`
 
 ## Deployment
 ![Screen Shot 2022-01-09 at 9 26 07 PM](https://user-images.githubusercontent.com/74579301/148718370-b8dfc431-7516-47e8-8291-b4195d726c5b.png)
+[View](https://frozen-depths-14381.herokuapp.com/)
 
 ## Technologies 
 this project was build with: 
